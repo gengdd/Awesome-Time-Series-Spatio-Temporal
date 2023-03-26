@@ -1,47 +1,29 @@
 # Awesome-Time-Series-Spatio-Temporal
 
-- [Awesome-Time-Series-Spatio-Temporal](#awesome-time-series-spatio-temporal)
-  - [时序相关](#时序相关)
-    - [时序预测](#时序预测)
-    - [时序异常检测](#时序异常检测)
-    - [时序表示学习](#时序表示学习)
-    - [时序补全](#时序补全)
-    - [时序](#时序)
-  - [时空相关](#时空相关)
-    - [时空序列预测](#时空序列预测)
-  - [轨迹相关](#轨迹相关)
-    - [轨迹预测](#轨迹预测)
-    - [轨迹表示学习](#轨迹表示学习)
-    - [轨迹异常检测](#轨迹异常检测)
-    - [轨迹修复](#轨迹修复)
-    - [轨迹生成](#轨迹生成)
 
 
+## Time Series
 
-## 时序相关
+### Time Series Forecasting
 
-### 时序预测
+### Time Series Anomaly Detection
 
-### 时序异常检测
+### Time Series Representation Learning
 
-### 时序表示学习
+### Time Series Imputation
 
-### 时序补全
+## Spatio-Temporal
 
-### 时序
+### Spatio-Temporal Forecasting
 
-## 时空相关
+## Trajectory
 
-### 时空序列预测
+### ETA / TTE
 
-## 轨迹相关
+### Trajectory Prediction
 
-### 轨迹预测
+### Trajectory Representaion Learning
 
-### 轨迹表示学习
+### Trajectory Anomaly Detection
 
-### 轨迹异常检测
-
-### 轨迹修复
-
-### 轨迹生成
+### Trajectory Recovery
