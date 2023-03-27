@@ -8,7 +8,7 @@
   - [Time Series Anomaly Detection](#time-series-anomaly-detection)
   - [Time Series Representation Learning](#time-series-representation-learning)
   - [Time Series Imputation](#time-series-imputation)
-- [Trajectory](#trajectory)
+- [Trajectory Data](#trajectory-data)
   - [Travel Time Estimation](#travel-time-estimation)
   - [Trajectory Prediction](#trajectory-prediction)
   - [Trajectory Representaion Learning](#trajectory-representaion-learning)
@@ -47,7 +47,7 @@
 
 ### Time Series Imputation
 
-## Trajectory
+## Trajectory Data
 
 ### Travel Time Estimation
 
