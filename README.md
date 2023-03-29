@@ -1,5 +1,6 @@
 # Awesome-Time-Series-Spatio-Temporal
 
+
 - [Spatio-Temporal](#spatio-temporal)
   - [Spatio-Temporal Forecasting](#spatio-temporal-forecasting)
   - [Spatio-Temporal Imputation](#spatio-temporal-imputation)
@@ -27,19 +28,11 @@
 
 #### ArXiv & Recently Updated
 
-#### ICLR
+#### ICLR/ICML/NIPS
 
-#### ICML
+#### AAAI/KDD/ICDE/VLDB/IJCAI
 
-#### NIPS
-
-#### AAAI
-
-#### KDD
-
-#### ICDE
-
-#### Misc
+#### SigSpatial/CIKM/SIGMOD/WSDM/
 
 ### Time Series Anomaly Detection
 
