@@ -19,8 +19,6 @@
 
 ### :computer: Time Series Forecasting
 
-#### ArXiv & Recently Updated
-
 #### ICLR/ICML/NIPS
 
 - [ICLR 2023] A Time Series is Worth 64 Words: Long-term Forecasting with Transformers.[Paper](https://openreview.net/pdf?id=Jbdc0vTOcol).[Code](https://github.com/yuqinie98/PatchTST)
