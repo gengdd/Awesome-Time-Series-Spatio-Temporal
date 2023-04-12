@@ -15,9 +15,9 @@
   - [Trajectory Anomaly Detection](#trajectory-anomaly-detection)
   - [Trajectory Recovery](#trajectory-recovery)
 
-## Time Series
+## :computer: Time Series
 
-### Time Series Forecasting
+### :computer: Time Series Forecasting
 
 #### ArXiv & Recently Updated
 
@@ -44,7 +44,7 @@
 
 #### SigSpatial/CIKM/SIGMOD/WSDM/Others
 
-### Time Series Anomaly Detection
+### :computer: Time Series Anomaly Detection
 
 #### ICLR/ICML/NIPS
 
@@ -59,7 +59,7 @@
 
 #### SigSpatial/CIKM/SIGMOD/WSDM/
 
-### Time Series Representation Learning
+### :computer: Time Series Representation Learning
 
 #### ICLR/ICML/NIPS
 
@@ -74,7 +74,7 @@
 
 #### SigSpatial/CIKM/SIGMOD/WSDM/
 
-### Time Series Imputation
+### :computer: Time Series Imputation
 
 #### ICLR/ICML/NIPS
 
@@ -85,25 +85,25 @@
 
 #### SigSpatial/CIKM/SIGMOD/WSDM/
 
-## Spatio-Temporal
+## :computer: Spatio-Temporal
 
-### Spatio-Temporal Forecasting
+### :computer: Spatio-Temporal Forecasting
 
 - [NIPS 2022] Multivariate Time-Series Forecasting with Temporal Polynomial Graph Neural Networks. [Paper](https://papers.nips.cc/paper_files/paper/2022/hash/7b102c908e9404dd040599c65db4ce3e-Abstract-Conference.html). [Code](https://github.com/zyplanet/TPGNN)
 
-### Spatio-Temporal Imputation
+### :computer: Spatio-Temporal Imputation
 
 - [NIPS 2022] Learning to Reconstruct Missing Data from Spatiotemporal Graphs with Sparse Observations. [Paper](https://arxiv.org/abs/2205.13479). [Code](https://github.com/Graph-Machine-Learning-Group/spin)
 - 
 
-## Trajectory Data
+## :computer: Trajectory Data
 
-### Travel Time Estimation
+### :computer: Travel Time Estimation
 
-### Trajectory Prediction
+### :computer: Trajectory Prediction
 
-### Trajectory Representaion Learning
+### :computer: Trajectory Representaion Learning
 
-### Trajectory Anomaly Detection
+### :computer: Trajectory Anomaly Detection
 
-### Trajectory Recovery
+### :computer: Trajectory Recovery
