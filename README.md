@@ -37,6 +37,7 @@
 - [ICML 2022] FEDformer: Frequency Enhanced Decomposed Transformer for Long-term Series Forecasting. [Paper](https://arxiv.org/abs/2201.12740). [Code](https://github.com/MAZiqing/FEDformer)
 - [ICLR 2022] Pyraformer: Low-complexity Pyramidal Attention for Long-range Time Series Modeling and Forecasting. [Paper](https://openreview.net/pdf?id=0EXmFzUn5I). [Code](https://github.com/ant-research/Pyraformer)
 - [KDD 2022] Learning to Rotate: Quaternion Transformer for Complicated Periodical Time Series Forecasting. [Paper](https://dl.acm.org/doi/abs/10.1145/3534678.3539234). [Code]
+- [KDD 2022] Learning Differential Operators for Interpretable Time Series Modeling. [Paper]. [Code]
 
 ### :computer: Time Series Anomaly Detection
 
@@ -61,7 +62,6 @@
 - [ICML 2022] Utilizing Expert Features for Contrastive Learning of Time-Series Representations. [Paper](https://arxiv.org/abs/2206.11517). [Code]
 - [ICLR 2022] CoST: Contrastive Learning of Disentangled Seasonal-Trend Representations for Time Series Forecasting. [Paper](https://openreview.net/pdf?id=PilZY3omXV2). [Code](https://github.com/salesforce/CoST)
 
-
 ### :computer: Time Series Imputation
 
 - [ICLR 2023] Multivariate Time-series Imputation with Disentangled Temporal Representations. [Paper](https://openreview.net/pdf?id=rdjeCNUS6TG). [Code](https://github.com/liuwj2000/TIDER)
@@ -76,6 +76,10 @@
 ### :computer: Spatio-Temporal Forecasting
 
 - [NIPS 2022] Multivariate Time-Series Forecasting with Temporal Polynomial Graph Neural Networks. [Paper](https://papers.nips.cc/paper_files/paper/2022/hash/7b102c908e9404dd040599c65db4ce3e-Abstract-Conference.html). [Code](https://github.com/zyplanet/TPGNN)
+- [NIPS 2022] Practical Adversarial Attacks on Spatiotemporal Traffic Forecasting Models. [Paper]. [Code]
+- [ICML 2022] DSTAGNN: Dynamic Spatial-Temporal Aware Graph Neural Network for Traffic Flow Forecasting. [Paper]. [Code]
+- [KDD 2022] MSDR: Multi-Step Dependency Relation Networks for Spatial Temporal Forecasting. [Paper]. [Code]
+- [KDD 2022] Modeling Network-level Traffic Flow Transitions on Sparse Data. [Paper]. [Code]
 
 ### :computer: Spatio-Temporal Imputation
 
@@ -86,10 +90,27 @@
 
 ### :computer: Travel Time Estimation
 
+- [KDD 2022] Reproducibility and Progress in Estimating Time of Arrival, or Can Simple Methods Still Outperform Deep Learning Ones? [Paper]. [Code]
+- [KDD 2022] Interpreting Trajectories from Multiple Views: A Hierarchical Self-Attention Network for Estimating the Time of Arrival. [Paper]. [Code]
+
 ### :computer: Trajectory Prediction
 
+- [KDD 2022] MetaPTP: An Adaptive Meta-optimized Model for Personalized Spatial Trajectory Prediction. [Paper]. [Code]
+- [KDD 2022] Graph2Route: A Dynamic Spatial-Temporal Graph Neural Network for Pick-up and Delivery Route Prediction. [Paper]. [Code]
+
 ### :computer: Trajectory Representaion Learning
+
+### :computer: Trajectory Similarity Computation
+
+- [KDD 2022] A Graph-based Approach for Trajectory Similarity Computation in Spatial Networks. [Paper]. [Code]
+- [KDD 2022] TrajGAT: A Graph-based Long-term Dependency Modeling Approach for Trajectory Similarity Computation. [Paper]. [Code]
+- [KDD 2022] Spatio-Temporal Trajectory Similarity Learning in Road Networks. [Paper]. [Code]
 
 ### :computer: Trajectory Anomaly Detection
 
 ### :computer: Trajectory Recovery
+
+- [KDD 2022] Spatio-Temporal Vehicle Trajectory Recovery on Road Network Based on Traffic Camera Video Data. [Paper]. [Code]
+- 
+
+### :computer: Map Matching
