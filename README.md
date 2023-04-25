@@ -13,12 +13,16 @@
   - [Trajectory Prediction](#computer-trajectory-prediction)
   - [Trajectory Representaion Learning](#computer-trajectory-representaion-learning)
   - [Trajectory Anomaly Detection](#computer-trajectory-anomaly-detection)
-  - [Trajectory Recovery](#computer-trajectory-recovery)
+  - [Trajectory Generation/Recovery](#computer-trajectory-generationrecovery)
 
 ## :computer: Time Series
 
 ### :computer: Time Series Forecasting
 
+- [AAAI 2023] Learning Decomposed Spatial Relations for Multi-Variate Time-Series Modeling. [Paper]. [Code]
+- [AAAI 2023] InParformer: Evolutionary Decomposition Transformers with Interactive Parallel Attention for Long-Term Time Series Forecasting. [Paper]. [Code]
+- [AAAI 2023] Learning Dynamic Temporal Relations with Continuous Graph for Multivariate Time Series Forecasting. [Paper]. [Code]
+- [AAAI 2023] WaveForM: Graph Enhanced Wavelet Learning for Long Sequence Forecasting of Multivariate Time Series. [Paper]. [Code]
 - [AAAI 2023] N-HiTS: Neural Hierarchical Interpolation for Time Series Forecasting. [Paper](https://arxiv.org/abs/2201.12886). [Code](https://github.com/Nixtla/neuralforecast)
 - [AAAI 2023] Are Transformers Effective for Time Series Forecasting? [Paper](https://arxiv.org/abs/2205.13504). [Code](https://github.com/cure-lab/LTSF-Linear)
 - [AAAI 2023] Dish-TS: A General Paradigm for Alleviating Distribution Shift in Time Series Forecasting. [Paper](https://arxiv.org/abs/2302.14829). [Code](https://github.com/weifantt/Dish-TS)
@@ -41,6 +45,7 @@
 
 ### :computer: Time Series Anomaly Detection
 
+- [AAAI 2023] Detecting Multivariate Time Series Anomalies with Zero Known Label. [Paper]. [Code]
 - [ICLR 2023] Unsupervised Model Selection for Time Series Anomaly Detection. [Paper](https://openreview.net/pdf?id=gOZ_pKANaPW). [Code](https://github.com/mononitogoswami/tsad-model-selection)
 
 <br>
@@ -52,6 +57,9 @@
 
 ### :computer: Time Series Representation Learning
 
+- [AAAI 2023] Time Series Contrastive Learning with Information-Aware Augmentations. [Paper]. [Code]
+- [AAAI 2023] Supervised Contrastive Few-shot Learning for High-frequency Time Series. [Paper]. [Code]
+- [AAAI 2023] Temporal-Frequency Co-Training for Time Series Semi-Supervised Learning. [Paper]. [Code]
 - [ICLR 2023] Contrastive Learning for Unsupervised Domain Adaptation of Time Series. [Paper](https://openreview.net/pdf?id=xPkJYRsQGM). [Code](https://github.com/oezyurty/CLUDA)
 
 <br>
@@ -70,10 +78,22 @@
 
 - [ICLR 2022] Filling the G_ap_s: Multivariate Time Series Imputation by Graph Neural Networks. [Paper](https://arxiv.org/pdf/2108.00298.pdf). [Code](https://github.com/Graph-Machine-Learning-Group/grin)
 
-
 ## :computer: Spatio-Temporal
 
 ### :computer: Spatio-Temporal Forecasting
+
+- [AAAI 2023] Ising-Traffic: Using Ising Machine Learning to Predict Traffic Congestion under Uncertainty. [Paper]. [Code]
+- [AAAI 2023] PDFormer: Propagation Delay-aware Dynamic Long-range Transformer for Traffic Flow Prediction. [Paper]. [Code]
+- [AAAI 2023] Spatio-Temporal Graph Neural Point Process for Traffic Congestion Event Prediction. [Paper]. [Code]
+- [AAAI 2023] Spatio-temporal Neural Structural Causal Models for Bike Flow Prediction. [Paper]. [Code]
+- [AAAI 2023] Spatio-Temporal Self-Supervised Learning for Traffic Flow Prediction. [Paper]. [Code]
+- [AAAI 2023] Spatio-Temporal Meta-Graph Learning for Traffic Forecasting. [Paper]. [Code]
+- [AAAI 2023] Trafformer: Unify Time and Space in Traffic Prediction. [Paper]. [Code]
+- [ICDE 2023] When Spatio-Temporal Meet Wavelets: Disentangled Traffic Forecasting via Efficient Spectral Graph Attention Networks. [Paper]. [Code]
+- [ICDE 2023] Self-Supervised Spatial-Temporal Bottleneck Attentive Network for Efficient Long-term Traffic Forecasting. [Paper]. [Code]
+- [ICDE 2023] Dynamic Hypergraph Structure Learning for Traffic Flow Forecasting
+
+<br>
 
 - [NIPS 2022] Multivariate Time-Series Forecasting with Temporal Polynomial Graph Neural Networks. [Paper](https://papers.nips.cc/paper_files/paper/2022/hash/7b102c908e9404dd040599c65db4ce3e-Abstract-Conference.html). [Code](https://github.com/zyplanet/TPGNN)
 - [NIPS 2022] Practical Adversarial Attacks on Spatiotemporal Traffic Forecasting Models. [Paper]. [Code]
@@ -82,6 +102,10 @@
 - [KDD 2022] Modeling Network-level Traffic Flow Transitions on Sparse Data. [Paper]. [Code]
 
 ### :computer: Spatio-Temporal Imputation
+
+- [ICDE 2023] PriSTI: A Conditional Diffusion Framework for Spatiotemporal Imputation. [Paper]. [Code]
+
+<br>
 
 - [NIPS 2022] Learning to Reconstruct Missing Data from Spatiotemporal Graphs with Sparse Observations. [Paper](https://arxiv.org/abs/2205.13479). [Code](https://github.com/Graph-Machine-Learning-Group/spin)
 - 
@@ -95,12 +119,26 @@
 
 ### :computer: Trajectory Prediction
 
+- [AAAI 2023] Causal Intervention for Human Trajectory Prediction with Cross Attention Mechanism. [Paper]. [Code]
+- [AAAI 2023] Mobility Prediction via Sequential Trajectory Disentanglement. [Paper]. [Code]
+- [AAAI 2023] WSiP: Wave Superposition Inspired Pooling for Dynamic InteractionsAware Trajectory Prediction. [Paper]. [Code]
+
+<br>
+
 - [KDD 2022] MetaPTP: An Adaptive Meta-optimized Model for Personalized Spatial Trajectory Prediction. [Paper]. [Code]
 - [KDD 2022] Graph2Route: A Dynamic Spatial-Temporal Graph Neural Network for Pick-up and Delivery Route Prediction. [Paper]. [Code]
 
 ### :computer: Trajectory Representaion Learning
 
+- [ICDE 2023] Self-supervised Trajectory Representation Learning with Temporal Regularities and Travel Semantics. [Paper]. [Code]
+- [ICDE 2023] BERT-Trip: Effective and Scalable Trip Representation using Attentive Contrast Learning. [Paper]. [Code]
+
 ### :computer: Trajectory Similarity Computation
+
+- [AAAI 2023] GRLSTM: Trajectory Similarity Computation with Graph-based Residual LSTM. [Paper]. [Code]
+- [ICDE 2023] Contrastive Trajectory Similarity Learning with Dual-Feature Attention. [Paper]. [Code]
+
+<br>
 
 - [KDD 2022] A Graph-based Approach for Trajectory Similarity Computation in Spatial Networks. [Paper]. [Code]
 - [KDD 2022] TrajGAT: A Graph-based Long-term Dependency Modeling Approach for Trajectory Similarity Computation. [Paper]. [Code]
@@ -108,9 +146,20 @@
 
 ### :computer: Trajectory Anomaly Detection
 
-### :computer: Trajectory Recovery
+ - [ICDE 2023] Online Anomalous Subtrajectory Detection on Road Networks with Deep Reinforcement Learning. [Paper]. [Code]
+
+### :computer: Trajectory Generation/Recovery
+
+- [AAAI 2023] Continuous Trajectory Generation Based on Two-Stage GAN. [Paper]. [Code]
+- [AAAI 2023] PateGail: A Privacy-preserving Mobility Trajectory Generator with Imitation Learning. [Paper]. [Code]
+- [ICDE 2023] RNTrajRec: Road Network Enhanced Trajectory Recovery with Spatial-Temporal Transformer. [Paper]. [Code]
+
+<br>
 
 - [KDD 2022] Spatio-Temporal Vehicle Trajectory Recovery on Road Network Based on Traffic Camera Video Data. [Paper]. [Code]
 - 
 
 ### :computer: Map Matching
+
+- [ICDE 2023] LHMM: A Learning Enhanced HMM Model for Cellular Trajectory Map-matching. [Paper]. [Code]
+- 
