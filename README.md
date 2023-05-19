@@ -15,11 +15,19 @@
   - [Trajectory Representaion Learning](#computer-trajectory-representaion-learning)
   - [Trajectory Anomaly Detection](#computer-trajectory-anomaly-detection)
   - [Trajectory Generation/Recovery](#computer-trajectory-generationrecovery)
+  - [Map Matching](#computer-map-matching)
 
 ## :computer: Time Series
 
 ### :computer: Time Series Forecasting
 
+- [IJCAL 2023] SMARTformer: Semi-Autoregressive Transformer with Efficient Integrated Window Attention for Long Time Series Forecasting. [Paper]. [Code]
+- [IJCAI 2023] Latent Processes Identification From Multi-View Time Series. [Paper]. [Code]
+- [IJCAI 2023] DeLELSTM: Decomposition-based Linear Explainable LSTM to Capture Instantaneous and Long-term Effects in Time Series. [Paper]. [Code]
+- [IJCAI 2023] Learning Gaussian Mixture Representations for Tensor Time Series Forecasting. [Paper]. [Code]
+- [IJCAI 2023] pTSE: A Multi-model Ensemble Method for Probabilistic Time Series Forecasting. [Paper]. [Code]
+- [IJCAI 2023] Not Only Pairwise Relationships: Fine-Grained Relational Modeling for Multivariate Time Series Forecasting. [Paper]. [Code]
+- [IJCAI 2023] Transformers in Time Series: A Survey. [Paper]. [Code]
 - [AAAI 2023] Learning Decomposed Spatial Relations for Multi-Variate Time-Series Modeling. [Paper]. [Code]
 - [AAAI 2023] InParformer: Evolutionary Decomposition Transformers with Interactive Parallel Attention for Long-Term Time Series Forecasting. [Paper]. [Code]
 - [AAAI 2023] Learning Dynamic Temporal Relations with Continuous Graph for Multivariate Time Series Forecasting. [Paper]. [Code]
