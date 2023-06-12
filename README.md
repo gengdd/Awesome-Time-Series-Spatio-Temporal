@@ -21,6 +21,12 @@
 
 ### :computer: Time Series Forecasting
 
+- [ICML 2023] Learning Perturbations to Explain Time Series Predictions. [Paper]. [Code]
+- [ICML 2023] Self-Interpretable Time Series Prediction with Counterfactual Explanations. [Paper]. [Code]
+- [ICML 2023] Learning Deep Time-index Models for Time Series Forecasting. [Paper]. [Code]
+- [ICML 2023] Feature Programming for Multivariate Time Series Prediction. [Paper]. [Code]
+- [ICML 2023] Theoretical Guarantees of Learning Ensembling Strategies with Applications to Time Series Forecasting. [Paper]. [Code]
+- [ICML 2023] Non-autoregressive Conditional Diffusion Models for Time Series Prediction. [Paper]. [Code]
 - [IJCAL 2023] SMARTformer: Semi-Autoregressive Transformer with Efficient Integrated Window Attention for Long Time Series Forecasting. [Paper]. [Code]
 - [IJCAI 2023] Latent Processes Identification From Multi-View Time Series. [Paper]. [Code]
 - [IJCAI 2023] DeLELSTM: Decomposition-based Linear Explainable LSTM to Capture Instantaneous and Long-term Effects in Time Series. [Paper]. [Code]
@@ -58,6 +64,7 @@
 
 ### :computer: Time Series Anomaly Detection
 
+- [ICML 2023] Prototype-oriented unsupervised anomaly detection for multivariate time series. [Paper]. [Code]
 - [AAAI 2023] Detecting Multivariate Time Series Anomalies with Zero Known Label. [Paper]. [Code]
 - [ICLR 2023] Unsupervised Model Selection for Time Series Anomaly Detection. [Paper](https://openreview.net/pdf?id=gOZ_pKANaPW). [Code](https://github.com/mononitogoswami/tsad-model-selection)
 - [ICDE 2023] 
