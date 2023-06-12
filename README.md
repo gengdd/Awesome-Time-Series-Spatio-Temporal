@@ -67,7 +67,6 @@
 - [ICML 2023] Prototype-oriented unsupervised anomaly detection for multivariate time series. [Paper]. [Code]
 - [AAAI 2023] Detecting Multivariate Time Series Anomalies with Zero Known Label. [Paper]. [Code]
 - [ICLR 2023] Unsupervised Model Selection for Time Series Anomaly Detection. [Paper](https://openreview.net/pdf?id=gOZ_pKANaPW). [Code](https://github.com/mononitogoswami/tsad-model-selection)
-- [ICDE 2023] 
 - [WSDM 2023] Adversarial Autoencoder for Unsupervised Time Series Anomaly Detection and Interpretation. [Paper]. [Code]
 
 <br>
@@ -95,6 +94,7 @@
 
 ### :computer: Time Series Imputation
 
+- [ICML 2023] Provably Convergent Schrödinger Bridge with Applications to Probabilistic Time Series Imputation. [Paper]. [Code]
 - [ICLR 2023] Multivariate Time-series Imputation with Disentangled Temporal Representations. [Paper](https://openreview.net/pdf?id=rdjeCNUS6TG). [Code](https://github.com/liuwj2000/TIDER)
   
 <br>
@@ -159,7 +159,6 @@
 - [KDD 2022] Reproducibility and Progress in Estimating Time of Arrival, or Can Simple Methods Still Outperform Deep Learning Ones? [Paper]. [Code]
 - [KDD 2022] Interpreting Trajectories from Multiple Views: A Hierarchical Self-Attention Network for Estimating the Time of Arrival. [Paper]. [Code]
 - [SigSpatial 2022] MTTPRE: A Multi-Scale Spatial-Temporal Model for Travel Time Prediction. [Paper]. [Code]
-- 
 
 ### :computer: Trajectory Prediction
 
