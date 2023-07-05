@@ -21,6 +21,10 @@
 
 ### :computer: Time Series Forecasting
 
+- [KDD 2023] Sparse Binary Transformers for Multivariate Time Series Modeling. [Paper]. [Code]
+- [KDD 2023] WHEN: A Wavelet-DTW Hybrid Attention Network for Heterogeneous Time Series Analysis. [Paper]. [Code]
+- [KDD 2023] TSMixer: Lightweight MLP-Mixer Model for Multivariate Time Series Forecasting. [Paper]. [Code]
+- [KDD 2023] Hierarchical Proxy Modeling for Improved HPO in Time Series Forecasting. [Paper]. [Code]
 - [ICML 2023] Learning Perturbations to Explain Time Series Predictions. [Paper]. [Code]
 - [ICML 2023] Self-Interpretable Time Series Prediction with Counterfactual Explanations. [Paper]. [Code]
 - [ICML 2023] Learning Deep Time-index Models for Time Series Forecasting. [Paper]. [Code]
@@ -64,6 +68,8 @@
 
 ### :computer: Time Series Anomaly Detection
 
+- [KDD 2023] DCdetector: Dual Attention Contrastive Representation Learning for Time Series Anomaly Detection. [Paper]. [Code]
+- [KDD 2023] Precursor-of-Anomaly Detection for Irregular Time Series. [Paper]. [Code]
 - [ICML 2023] Prototype-oriented unsupervised anomaly detection for multivariate time series. [Paper]. [Code]
 - [AAAI 2023] Detecting Multivariate Time Series Anomalies with Zero Known Label. [Paper]. [Code]
 - [ICLR 2023] Unsupervised Model Selection for Time Series Anomaly Detection. [Paper](https://openreview.net/pdf?id=gOZ_pKANaPW). [Code](https://github.com/mononitogoswami/tsad-model-selection)
@@ -94,16 +100,22 @@
 
 ### :computer: Time Series Imputation
 
+- [KDD 2023] Source-Free Domain Adaptation with Temporal Imputation for Time Series Data. [Paper]. [Code]
+- [KDD 2023] Networked Time Series Imputation via Position-aware Graph Enhanced Variational Autoencoders. [Paper]. [Code]
+- [KDD 2023] Imputation-based Time-Series Anomaly Detection with Conditional Weight-Incremental Diffusion Models. [Paper]. [Code]
+- [KDD 2023] An Observed Value Consistent Diffusion Model for Imputing Missing Values in Multivariate Time Series. [Paper]. [Code]
 - [ICML 2023] Provably Convergent Schrödinger Bridge with Applications to Probabilistic Time Series Imputation. [Paper]. [Code]
+- [ICML 2023] Deep Latent State Space Models for Time-Series Generation. [Paper]. [Code]
 - [ICLR 2023] Multivariate Time-series Imputation with Disentangled Temporal Representations. [Paper](https://openreview.net/pdf?id=rdjeCNUS6TG). [Code](https://github.com/liuwj2000/TIDER)
   
 <br>
 
 - [ICLR 2022] Filling the G_ap_s: Multivariate Time Series Imputation by Graph Neural Networks. [Paper](https://arxiv.org/pdf/2108.00298.pdf). [Code](https://github.com/Graph-Machine-Learning-Group/grin)
 
-
 ### :computer: Time Series Classification
 
+- [KDD 2023] Self-supervised Classification of Clinical Multivariate Time Series using Time Series Dynamics. [Paper]. [Code]
+- [KDD 2023] FLAMES2Graph: An Interpretable Federated Multivariate Time Series Classification Framework. [Paper]. [Code]
 - [WWW 2023] FormerTime: Hierarchical Multi-Scale Representations for Multivariate Time Series Classification. [Paper]. [Code]
 
 ## :computer: Spatio-Temporal
@@ -114,6 +126,19 @@
 
 <br>
 
+- [KDD 2023] Graph Neural Processes for Spatio-Temporal Extrapolation. [Paper]. [Code]
+- [KDD 2023] Transferable Graph Structure Learning for Graph-based Traffic Forecasting Across Cities. [Paper]. [Code]
+- [KDD 2023] Robust Spatiotemporal Traffic Forecasting with Reinforced Dynamic Adversarial Training. [Paper]. [Code]
+- [KDD 2023] Pattern Expansion and Consolidation on Evolving Graphs for Continual Traffic Prediction. [Paper]. [Code]
+- [KDD 2023] TransformerLight: A Novel Sequence Modeling Based Traffic Signaling Mechanism via Gated Transformer. [Paper]. [Code]
+- [KDD 2023] Spatial Heterophily Aware Graph Neural Networks. [Paper]. [Code]
+- [KDD 2023] Multi-Temporal Relationship Inference in Urban Areas. [Paper]. [Code]
+- [KDD 2023] Frigate: Frugal Spatio-temporal Forecasting on Road Networks. [Paper]. [Code]
+- [KDD 2023] Maintaining the Status Quo: Capturing Invariant Relations for OOD Spatiotemporal Learning. [Paper]. [Code]
+- [KDD 2023] Localised Adaptive Spatial-Temporal Graph Neural Network. [Paper]. [Code]
+- [KDD 2023] A Data-driven Region Generation Framework for Spatiotemporal Transportation Service Management. [Paper]. [Code]
+- [KDD 2023] Large-scale Urban Cellular Traffic Generation via Knowledge-Enhanced GANs with Multi-Periodic Patterns. [Paper]. [Code]
+- [KDD 2023] Deep Transfer Learning for City-scale Cellular Traffic Generation through Urban Knowledge Graph. [Paper]. [Code]
 - [AAAI 2023] Ising-Traffic: Using Ising Machine Learning to Predict Traffic Congestion under Uncertainty. [Paper]. [Code]
 - [AAAI 2023] PDFormer: Propagation Delay-aware Dynamic Long-range Transformer for Traffic Flow Prediction. [Paper]. [Code]
 - [AAAI 2023] Spatio-Temporal Graph Neural Point Process for Traffic Congestion Event Prediction. [Paper]. [Code]
@@ -151,6 +176,9 @@
 
 ### :computer: Travel Time Estimation
 
+
+- [KDD 2023] Uncertainty-Aware Probabilistic Travel Time Prediction for On-Demand Ride-Hailing at DiDi. [Paper]. [Code]
+- [KDD 2023] iETA: A Robust and Scalable Incremental Learning Framework for Time-of-Arrival Estimation. [Paper]. [Code]
 - [ICDE 2023] Delivery Time Prediction Using Large-Scale Graph Structure Learning Based on Quantile Regression. [Paper]. [Code]
 - [WSDM 2023] Inductive Graph Transformer for Delivery Time Estimation. [Paper]. [Code]
 
@@ -173,6 +201,7 @@
 
 ### :computer: Trajectory Representaion Learning
 
+- [KDD 2023] LightPath: Lightweight and Scalable Path Representation Learning. [Paper]. [Code]
 - [ICDE 2023] Self-supervised Trajectory Representation Learning with Temporal Regularities and Travel Semantics. [Paper]. [Code]
 - [ICDE 2023] BERT-Trip: Effective and Scalable Trip Representation using Attentive Contrast Learning. [Paper]. [Code]
 
@@ -213,7 +242,7 @@
 - [KDD 2022] Spatio-Temporal Vehicle Trajectory Recovery on Road Network Based on Traffic Camera Video Data. [Paper]. [Code]
 - [SigSpatial 2022] Factorized Deep Generative Models for End-to-End Trajectory Generation with Spatiotemporal Validity Constraints. [Paper]. [Code]
 
-### :computer: Map Matching
+### :computer: Map Matching/Other
 
+- [KDD 2023] Understanding the Semantics of GPS-based Trajectories for Road Closure Detection. [Paper]. [Code]
 - [ICDE 2023] LHMM: A Learning Enhanced HMM Model for Cellular Trajectory Map-matching. [Paper]. [Code]
-- 
