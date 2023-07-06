@@ -15,7 +15,7 @@
   - [Trajectory Representaion Learning](#computer-trajectory-representaion-learning)
   - [Trajectory Anomaly Detection](#computer-trajectory-anomaly-detection)
   - [Trajectory Generation/Recovery](#computer-trajectory-generationrecovery)
-  - [Map Matching](#computer-map-matching)
+  - [Map Matching/Other](#computer-map-matchingother)
 
 ## :computer: Time Series
 
