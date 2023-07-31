@@ -196,6 +196,9 @@
 
 ### :computer: Trajectory Prediction/POI
 
+- [SIGIR 2023] Spatio-Temporal Hypergraph Learning for Next POI Recommendation. [Paper]. [Code]
+- [SIGIR 2023] Adaptive Graph Representation Learning for Next POI Recommendation. [Paper]. [Code]
+- [SIGIR 2023] EEDN: Enhanced Encoder-Decoder Network with Local and Global Context Learning for POI Recommendation. [Paper]. [Code]
 - [AAAI 2023] Causal Intervention for Human Trajectory Prediction with Cross Attention Mechanism. [Paper]. [Code]
 - [AAAI 2023] Mobility Prediction via Sequential Trajectory Disentanglement. [Paper]. [Code]
 - [AAAI 2023] WSiP: Wave Superposition Inspired Pooling for Dynamic InteractionsAware Trajectory Prediction. [Paper]. [Code]
