@@ -16,6 +16,7 @@
   - [Trajectory Anomaly Detection](#computer-trajectory-anomaly-detection)
   - [Trajectory Generation/Recovery](#computer-trajectory-generationrecovery)
   - [Map Matching/Other](#computer-map-matchingother)
+- [GeoAI/TransGPT](#computer-geoaitransgpt)
 
 ## :computer: Time Series
 
@@ -259,3 +260,7 @@
 - [VLDB 2023] Efficient Non-Learning Similar Subtrajectory Search. [Paper]. [Code]
 - [KDD 2023] Understanding the Semantics of GPS-based Trajectories for Road Closure Detection. [Paper]. [Code]
 - [ICDE 2023] LHMM: A Learning Enhanced HMM Model for Cellular Trajectory Map-matching. [Paper]. [Code]
+
+## :computer: GeoAI/TransGPT
+
+- [SIGIR 2023] MGeo: Multi-Modal Geographic Language Model Pre-Training. [Paper]. [Code]
