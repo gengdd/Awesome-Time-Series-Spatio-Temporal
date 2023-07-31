@@ -5,13 +5,13 @@
   - [Time Series Anomaly Detection](#computer-time-series-anomaly-detection)
   - [Time Series Representation Learning](#computer-time-series-representation-learning)
   - [Time Series Imputation](#computer-time-series-imputation)
-  - [Time Series Classification](#computer-time-series-classification)
+  - [Time Series Classification](#computer-time-series-classificationother)
 - [Spatio-Temporal](#computer-spatio-temporal)
   - [Spatio-Temporal Forecasting](#computer-spatio-temporal-forecasting)
   - [Spatio-Temporal Imputation](#computer-spatio-temporal-imputation)
 - [Trajectory Data](#computer-trajectory-data)
   - [Travel Time Estimation](#computer-travel-time-estimation)
-  - [Trajectory Prediction](#computer-trajectory-prediction)
+  - [Trajectory Prediction](#computer-trajectory-predictionpoi)
   - [Trajectory Representaion Learning](#computer-trajectory-representaion-learning)
   - [Trajectory Anomaly Detection](#computer-trajectory-anomaly-detection)
   - [Trajectory Generation/Recovery](#computer-trajectory-generationrecovery)
@@ -21,6 +21,7 @@
 
 ### :computer: Time Series Forecasting
 
+- [VLDB 2023] SimpleTS: An Efficient and Universal Model Selection Framework for Time Series Forecasting. [Paper]. [Code]
 - [KDD 2023] Sparse Binary Transformers for Multivariate Time Series Modeling. [Paper]. [Code]
 - [KDD 2023] WHEN: A Wavelet-DTW Hybrid Attention Network for Heterogeneous Time Series Analysis. [Paper]. [Code]
 - [KDD 2023] TSMixer: Lightweight MLP-Mixer Model for Multivariate Time Series Forecasting. [Paper]. [Code]
@@ -68,6 +69,8 @@
 
 ### :computer: Time Series Anomaly Detection
 
+- [VLDB 2023] Choose Wisely: An Extensive Evaluation of Model Selection for Anomaly Detection in Time Series. [Paper]. [Code]
+- [VLDB 2023] OneShotSTL: One-Shot Seasonal-Trend Decomposition For Online Time Series Anomaly Detection And Forecasting. [Paper]. [Code]
 - [KDD 2023] DCdetector: Dual Attention Contrastive Representation Learning for Time Series Anomaly Detection. [Paper]. [Code]
 - [KDD 2023] Precursor-of-Anomaly Detection for Irregular Time Series. [Paper]. [Code]
 - [ICML 2023] Prototype-oriented unsupervised anomaly detection for multivariate time series. [Paper]. [Code]
@@ -112,8 +115,11 @@
 
 - [ICLR 2022] Filling the G_ap_s: Multivariate Time Series Imputation by Graph Neural Networks. [Paper](https://arxiv.org/pdf/2108.00298.pdf). [Code](https://github.com/Graph-Machine-Learning-Group/grin)
 
-### :computer: Time Series Classification
+### :computer: Time Series Classification/Other
 
+- [VLDB 2023] Motiflets - Simple and Accurate Detection of Motifs in Time Series. [Paper]. [Code]
+- [VLDB 2023] Fast and Scalable Mining of Time Series Motifs with Probabilistic Guarantees. [Paper]. [Code]
+- [VLDB 2023] Time2Feat: Learning Interpretable Representations for Multivariate Time Series Clustering. [Paper]. [Code]
 - [KDD 2023] Self-supervised Classification of Clinical Multivariate Time Series using Time Series Dynamics. [Paper]. [Code]
 - [KDD 2023] FLAMES2Graph: An Interpretable Federated Multivariate Time Series Classification Framework. [Paper]. [Code]
 - [WWW 2023] FormerTime: Hierarchical Multi-Scale Representations for Multivariate Time Series Classification. [Paper]. [Code]
@@ -176,7 +182,7 @@
 
 ### :computer: Travel Time Estimation
 
-
+- [VLDB 2023] Route Travel Time Estimation on A Road Network Revisited: Heterogeneity, Proximity, Periodicity and Dynamicity. [Paper]. [Code]
 - [KDD 2023] Uncertainty-Aware Probabilistic Travel Time Prediction for On-Demand Ride-Hailing at DiDi. [Paper]. [Code]
 - [KDD 2023] iETA: A Robust and Scalable Incremental Learning Framework for Time-of-Arrival Estimation. [Paper]. [Code]
 - [ICDE 2023] Delivery Time Prediction Using Large-Scale Graph Structure Learning Based on Quantile Regression. [Paper]. [Code]
@@ -188,7 +194,7 @@
 - [KDD 2022] Interpreting Trajectories from Multiple Views: A Hierarchical Self-Attention Network for Estimating the Time of Arrival. [Paper]. [Code]
 - [SigSpatial 2022] MTTPRE: A Multi-Scale Spatial-Temporal Model for Travel Time Prediction. [Paper]. [Code]
 
-### :computer: Trajectory Prediction
+### :computer: Trajectory Prediction/POI
 
 - [AAAI 2023] Causal Intervention for Human Trajectory Prediction with Cross Attention Mechanism. [Paper]. [Code]
 - [AAAI 2023] Mobility Prediction via Sequential Trajectory Disentanglement. [Paper]. [Code]
@@ -201,6 +207,7 @@
 
 ### :computer: Trajectory Representaion Learning
 
+- [VLDB 2023] A Deep Generative Model for Trajectory Modeling and Utilization. [Paper]. [Code]
 - [KDD 2023] LightPath: Lightweight and Scalable Path Representation Learning. [Paper]. [Code]
 - [ICDE 2023] Self-supervised Trajectory Representation Learning with Temporal Regularities and Travel Semantics. [Paper]. [Code]
 - [ICDE 2023] BERT-Trip: Effective and Scalable Trip Representation using Attentive Contrast Learning. [Paper]. [Code]
@@ -244,5 +251,8 @@
 
 ### :computer: Map Matching/Other
 
+- [VLDB 2023] LDPTrace: Locally Differentially Private Trajectory Synthesis. [Paper]. [Code]
+- [VLDB 2023] Trajectory Data Collection with Local Differential Privacy. [Paper]. [Code]
+- [VLDB 2023] Efficient Non-Learning Similar Subtrajectory Search. [Paper]. [Code]
 - [KDD 2023] Understanding the Semantics of GPS-based Trajectories for Road Closure Detection. [Paper]. [Code]
 - [ICDE 2023] LHMM: A Learning Enhanced HMM Model for Cellular Trajectory Map-matching. [Paper]. [Code]
