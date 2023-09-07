@@ -5,7 +5,7 @@
   - [Time Series Anomaly Detection](#computer-time-series-anomaly-detection)
   - [Time Series Representation Learning](#computer-time-series-representation-learning)
   - [Time Series Imputation](#computer-time-series-imputation)
-  - [Time Series Classification](#computer-time-series-classificationother)
+  - [Time Series Classification/Other](#computer-time-series-classificationother)
 - [Spatio-Temporal](#computer-spatio-temporal)
   - [Spatio-Temporal Forecasting](#computer-spatio-temporal-forecasting)
   - [Spatio-Temporal Imputation](#computer-spatio-temporal-imputation)
@@ -22,6 +22,10 @@
 
 ### :computer: Time Series Forecasting
 
+- [CIKM 2023] GCformer: An Efficient Solution for Accurate and Scalable Long-Term Multivariate Time Series Forecasting. [Paper]. [Code]
+- [CIKM 2023] MemDA: Forecasting Urban Time Series with Memory-based Drift Adaptation. [Paper]. [Code]
+- [CIKM 2023] DSformer: A Double Sampling Transformer for Multivariate Time Series Long-term Prediction. [Paper]. [Code]
+- [CIKM 2023] FAMC-Net: Frequency Domain Parity Correction Attention and Multi-Scale Dilated Convolution for Time Series Forecasting. [Paper]. [Code]
 - [VLDB 2023] SimpleTS: An Efficient and Universal Model Selection Framework for Time Series Forecasting. [Paper]. [Code]
 - [KDD 2023] Sparse Binary Transformers for Multivariate Time Series Modeling. [Paper]. [Code]
 - [KDD 2023] WHEN: A Wavelet-DTW Hybrid Attention Network for Heterogeneous Time Series Analysis. [Paper]. [Code]
@@ -40,6 +44,7 @@
 - [IJCAI 2023] pTSE: A Multi-model Ensemble Method for Probabilistic Time Series Forecasting. [Paper]. [Code]
 - [IJCAI 2023] Not Only Pairwise Relationships: Fine-Grained Relational Modeling for Multivariate Time Series Forecasting. [Paper]. [Code]
 - [IJCAI 2023] Transformers in Time Series: A Survey. [Paper]. [Code]
+- [AAAI 2023] SLOTH: Structured Learning and Task-Based Optimization for Time Series Forecasting on Hierarchies. [Paper]. [Code]
 - [AAAI 2023] Learning Decomposed Spatial Relations for Multi-Variate Time-Series Modeling. [Paper]. [Code]
 - [AAAI 2023] InParformer: Evolutionary Decomposition Transformers with Interactive Parallel Attention for Long-Term Time Series Forecasting. [Paper]. [Code]
 - [AAAI 2023] Learning Dynamic Temporal Relations with Continuous Graph for Multivariate Time Series Forecasting. [Paper]. [Code]
@@ -70,6 +75,7 @@
 
 ### :computer: Time Series Anomaly Detection
 
+- [CIKM 2023] DuoGAT: Dual Time-oriented Graph Attention Networks for Accurate, Efficient and Explainable Anomaly Detection on Time-series. [Paper]. [Code]
 - [VLDB 2023] Choose Wisely: An Extensive Evaluation of Model Selection for Anomaly Detection in Time Series. [Paper]. [Code]
 - [VLDB 2023] OneShotSTL: One-Shot Seasonal-Trend Decomposition For Online Time Series Anomaly Detection And Forecasting. [Paper]. [Code]
 - [KDD 2023] DCdetector: Dual Attention Contrastive Representation Learning for Time Series Anomaly Detection. [Paper]. [Code]
@@ -89,6 +95,8 @@
 
 ### :computer: Time Series Representation Learning
 
+- [CIKM 2023] TriD-MAE: A Generic Pre-Train Model for Multivariate Time Series with Missing Values. [Paper]. [Code]
+- [CIKM 2023] A Co-training Approach for Noisy Time Series Learning. [Paper]. [Code]
 - [AAAI 2023] Time Series Contrastive Learning with Information-Aware Augmentations. [Paper]. [Code]
 - [AAAI 2023] Supervised Contrastive Few-shot Learning for High-frequency Time Series. [Paper]. [Code]
 - [AAAI 2023] Temporal-Frequency Co-Training for Time Series Semi-Supervised Learning. [Paper]. [Code]
@@ -104,6 +112,7 @@
 
 ### :computer: Time Series Imputation
 
+- [CIKM 2023] Density-Aware Temporal Attentive Step-wise Diffusion Model For Medical Time Series Imputation. [Paper]. [Code]
 - [KDD 2023] Source-Free Domain Adaptation with Temporal Imputation for Time Series Data. [Paper]. [Code]
 - [KDD 2023] Networked Time Series Imputation via Position-aware Graph Enhanced Variational Autoencoders. [Paper]. [Code]
 - [KDD 2023] Imputation-based Time-Series Anomaly Detection with Conditional Weight-Incremental Diffusion Models. [Paper]. [Code]
@@ -118,12 +127,16 @@
 
 ### :computer: Time Series Classification/Other
 
+- [CIKM 2023] Time-series Shapelets with Learnable Lengths. [Paper]. [Code]
+- [CIKM 2023] Temporal Convolutional Explorer Helps Understand 1D-CNN's Learning Behavior in Time Series Classification from Frequency Domain. [Paper]. [Code]
+- [CIKM 2023] EFFECTS: Explorable and Explainable Feature Extraction Framework for Multivariate Time-Series Classification. [Paper]. [Code]
 - [VLDB 2023] Motiflets - Simple and Accurate Detection of Motifs in Time Series. [Paper]. [Code]
 - [VLDB 2023] Fast and Scalable Mining of Time Series Motifs with Probabilistic Guarantees. [Paper]. [Code]
 - [VLDB 2023] Time2Feat: Learning Interpretable Representations for Multivariate Time Series Clustering. [Paper]. [Code]
 - [KDD 2023] Self-supervised Classification of Clinical Multivariate Time Series using Time Series Dynamics. [Paper]. [Code]
 - [KDD 2023] FLAMES2Graph: An Interpretable Federated Multivariate Time Series Classification Framework. [Paper]. [Code]
 - [WWW 2023] FormerTime: Hierarchical Multi-Scale Representations for Multivariate Time Series Classification. [Paper]. [Code]
+- [ICLR 2023] Out-of-distribution Representation Learning for Time Series Classification. [Paper]. [Code]
 
 ## :computer: Spatio-Temporal
 
@@ -133,6 +146,23 @@
 
 <br>
 
+- [CIKM 2023] STREAMS: Towards Spatio-Temporal Causal Discovery with Reinforcement Learning for Streamflow Rate Prediction. [Paper]. [Code]
+- [CIKM 2023] Prompt-Enhanced Spatio-Temporal Multi-Attribute Prediction. [Paper]. [Code]
+- [CIKM 2023] GraphERT-- Transformers-based Temporal Dynamic Graph Embedding. [Paper]. [Code]
+- [CIKM 2023] Region Profile Enhanced Urban Spatio-Temporal Prediction via Adaptive Meta Learning. [Paper]. [Code]
+- [CIKM 2023] Mask- and Contrast-Enhanced Spatio-Temporal Learning for Urban Flow Prediction. [Paper]. [Code]
+- [CIKM 2023] Enhancing Spatio-temporal Traffic Prediction through Urban Human Activity Analysis. [Paper]. [Code]
+- [CIKM 2023] ST-MoE: Spatio-Temporal Mixture-of-Experts for Debiasing in Traffic Prediction. [Paper]. [Code]
+- [CIKM 2023] Enhancing the Robustness via Adversarial Learning and Joint Spatial-temporal Embeddings in Traffic Forecasting. [Paper]. [Code]
+- [CIKM 2023] MLPST: MLP is All You Need for Spatio-Temporal Prediction. [Paper]. [Code]
+- [CIKM 2023] Spatial-temporal Graph Boosting Network: Enhancing Spatial-temporal Graph Neural Networks via Gradient Boosting. [Paper]. [Code]
+- [CIKM 2023] Spatial-Temporal-Aware Meta Graph Contrastive Learning. [Paper]. [Code]
+- [CIKM 2023] Explainable Spatial-Temporal Graph Neural Networks. [Paper]. [Code]
+- [CIKM 2023] Cross-city Few-Shot Traffic Forecasting via Traffic Pattern Bank. [Paper]. [Code]
+- [CIKM 2023] Hierarchical Information Enhanced Traffic Forecasting. [Paper]. [Code]
+- [CIKM 2023] CARPG: Cross-City Knowledge Transfer for Traffic Accident Prediction via Attentive Region-level Parameter Generation. [Paper]. [Code]
+- [CIKM 2023] Time-aware Graph Structure Learning via Sequence Prediction on Temporal Graphs. [Paper]. [Code]
+- [CIKM 2023] DeepSTA: A Spatial-Temporal Attention Network for Logistics Delivery Timely Rate Prediction in Anomaly Conditions. [Paper]. [Code]
 - [KDD 2023] Graph Neural Processes for Spatio-Temporal Extrapolation. [Paper]. [Code]
 - [KDD 2023] Transferable Graph Structure Learning for Graph-based Traffic Forecasting Across Cities. [Paper]. [Code]
 - [KDD 2023] Robust Spatiotemporal Traffic Forecasting with Reinforced Dynamic Adversarial Training. [Paper]. [Code]
@@ -183,6 +213,9 @@
 
 ### :computer: Travel Time Estimation
 
+- [CIKM 2023] GBTTE: Graph Attention Network Based Bus Travel Time Estimation. [Paper]. [Code]
+- [CIKM 2023] HST-GT:Heterogeneous Spatial-Temporal Graph Transformer for Delivery Time Estimation in Warehouse-Distribution Integration E-Commerce. [Paper]. [Code]
+- [CIKM 2023] Fragment and Integrate Network (FIN): A Novel Spatial-Temporal Modeling Based on Long Sequential Behavior for Online Food Ordering Click-Through Rate Prediction. [Paper]. [Code]
 - [VLDB 2023] Route Travel Time Estimation on A Road Network Revisited: Heterogeneity, Proximity, Periodicity and Dynamicity. [Paper]. [Code]
 - [KDD 2023] Uncertainty-Aware Probabilistic Travel Time Prediction for On-Demand Ride-Hailing at DiDi. [Paper]. [Code]
 - [KDD 2023] iETA: A Robust and Scalable Incremental Learning Framework for Time-of-Arrival Estimation. [Paper]. [Code]
@@ -235,7 +268,7 @@
 
 ### :computer: Trajectory Anomaly Detection
 
- - [ICDE 2023] Online Anomalous Subtrajectory Detection on Road Networks with Deep Reinforcement Learning. [Paper]. [Code]
+- [ICDE 2023] Online Anomalous Subtrajectory Detection on Road Networks with Deep Reinforcement Learning. [Paper]. [Code]
 
 ### :computer: Trajectory Classification
 
